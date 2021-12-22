@@ -16,7 +16,7 @@ pip install requests
 
 pip install random
 
-git clone https://github.com/K34G2R8/pass-gen
+git clone https://github.com/KEAGTORB/pass-gen
 
 cd $HOME
 
