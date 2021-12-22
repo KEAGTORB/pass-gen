@@ -30,9 +30,9 @@ print (red+b+"""
 
 """+b+red)
 
-print (gren+b+"              <===[[ coded by KEAGTORB ]]===>"+b+gren)
+print (gren+b+"              <===[[ coded by K34G2R8 ]]===>"+b+gren)
 print (" ")
-print (yellow+b+"        <---( Github-  K34G2R8)--->"+b+yellow)
+print (yellow+b+"        <---( Github-  KEAGTORB)--->"+b+yellow)
 print (" ")
 
 length=int(input(cyan+b+"Enter The Length Of The Password: "+b+cyan))
