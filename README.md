@@ -18,7 +18,7 @@ pip install random
 
 git clone https://github.com/KEAGTORB/pass-gen
 
-cd $HOME
+
 
 ls
 
